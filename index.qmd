@@ -1,0 +1,27 @@
+---
+title: "Introduction to Systematic Reviews and Meta-Analysis"
+---
+
+Date: **15th - 19th January 2024**
+
+Venue: **CEMA Data Science Lab, University of Nairobi**
+
+------------------------------------------------------------------------
+
+# Welcome!
+
+-   The goal of the workshop is to introduce the participants to the systematic review process and how to collect and analyse data.
+
+#### Learning Objectives
+
+At the end of the tutorial, participants will be able to
+
+-   Understand the key components of systematic reviews
+-   How to conduct a systematic review
+-   How to synthesis and analyse the data
+
+The course is targeting post graduate students who are in the process of conducting a systematic review.
+
+The analysis will be conducted using **R** statistical software. Incase you are not conversant with the software, kindly use this [link](https://cema-uonbi.github.io/cema_courses.github.io/index.html) to access introductory notes.
+
+![](cema_logo_no_background.png){fig-align="center" width="30%"}

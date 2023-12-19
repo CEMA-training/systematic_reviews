@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Systematic Reviews and Meta-Analysis",
+    "section": "",
+    "text": "Date: 15th - 19th January 2024\nVenue: CEMA Data Science Lab, University of Nairobi\n\n\nWelcome!\n\nThe goal of the workshop is to introduce the participants to the systematic review process and how to collect and analyse data.\n\n\nLearning Objectives\nAt the end of the tutorial, participants will be able to\n\nUnderstand the key components of systematic reviews\nHow to conduct a systematic review\nHow to synthesis and analyse the data\n\nThe course is targeting post graduate students who are in the process of conducting a systematic review.\nThe analysis will be conducted using R statistical software. Incase you are not conversant with the software, kindly use this link to access introductory notes."
+  },
+  {
+    "objectID": "part_1_prep.html",
+    "href": "part_1_prep.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Course Tutorials"
+  },
+  {
+    "objectID": "part_1_prep.html#software",
+    "href": "part_1_prep.html#software",
+    "title": "Preparation",
+    "section": "Software",
+    "text": "Software\nIn this workshop we will be using R. You can either\n\nhave R and Rstudio installed on your laptop\nor, use Posit cloud (formerly Rstudio Cloud).\n\nPosit cloud is free of charge for personal users, yet you need to sign up for a new user account and have internet connection.\nThe R package we are using is glmnet."
+  },
+  {
+    "objectID": "part_1_prep.html#data",
+    "href": "part_1_prep.html#data",
+    "title": "Preparation",
+    "section": "Data",
+    "text": "Data\nThe datasets we use can be found here (insert link)."
+  },
+  {
+    "objectID": "part_1_prep.html#code",
+    "href": "part_1_prep.html#code",
+    "title": "Preparation",
+    "section": "Code",
+    "text": "Code\nThe R scripts used in part 1 and part 2 can be found here (insert link)."
+  },
+  {
+    "objectID": "part_1_prep.html#resources",
+    "href": "part_1_prep.html#resources",
+    "title": "Preparation",
+    "section": "Resources",
+    "text": "Resources\nLecture notes (insert link)\nLab notes (insert link)"
+  },
+  {
+    "objectID": "part_2_eda.html",
+    "href": "part_2_eda.html",
+    "title": "Part I",
+    "section": "",
+    "text": "Page with R code\n\n\n\nThis page contains an example template for a lab session, where R code and results are displayed here.\nYou can find more information on how to include code in Quarto website here.\nYou can experiment with code-fold and code-tools in the yaml header above to change how the code cells look like."
+  },
+  {
+    "objectID": "part_2_eda.html#a-cancer-modeling-example",
+    "href": "part_2_eda.html#a-cancer-modeling-example",
+    "title": "Part I",
+    "section": "A Cancer Modeling Example",
+    "text": "A Cancer Modeling Example\nExercise on analysis of miRNA, mRNA and protein data from the paper Aure et al, Integrated analysis reveals microRNA networks coordinately expressed with key proteins in breast cancer, Genome Medicine, 2015.\nPlease run the code provided to replicate some of the analyses. Make sure you can explain what all the analysis steps do and that you understand all the results.\nIn addition, there are some extra tasks (Task 1), where no R code is provided. Please do these tasks when you have time available at the end of the lab.\n\nLoad the data\nRead the data, and convert to matrix format.\n\nmrna &lt;- read.table(\"data/data_example.txt\", header=T, sep=\"\\t\", dec=\".\")\n\n# Convert to matrix format\n\nmrna &lt;- as.matrix(mrna)\n\nPrint the data\n\nmrna[1:4, 1:4]\n\n      OSL2R.3002T4 OSL2R.3005T1 OSL2R.3013T1 OSL2R.3030T2\nACACA      1.60034     -0.49087     -0.26553     -0.27857\nANXA1     -2.42501     -0.05416     -0.46478     -2.18393\nAR         0.39615     -0.43348     -0.10232      0.58299\nBAK1       0.78627      0.39897      0.22598     -1.31202\n\n\nVisualise the overall distribution of expression levels by histogram\n\nhist(mrna, nclass=40, xlim=c(-5,5), col=\"lightblue\")\n\n\n\n\n\n\n\n\n\n\nTask 1\n\n\n\nThis is a callout-note, and it can be quite useful for exercises. You can find more about callout here.\nExample: Extend the above analysis to cover all genes."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Day 1: 15th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\n08:30 - 09:30\nDefinition and purpose of systematic reviews\nLecture\nMuema Mulei\n\n\n09:30 - 10:30\nResearch question formulation for a systematic review\nLecture\nGeorge Paul Omondi\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 12:00\nResearch question formulation for a systematic review\nPractical\nGeorge Paul Omondi\n\n\n12:00 - 13:00\nStudy selection criteria (Inclusion and exclusion criteria) and grey literature\nLecture\nGeorge Paul Omondi\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:00\nInclusion and exclusion criteria\nPractical\nGeorge Paul Omondi\n\n\n15:00 - 16:00\nLiterature search strategies\nLecture\nVictor Riitho\n\n\n16:00 - 16:30\n☕ Tea break\n\n\n\n\n16:30 - 17:00\nDevelop a search strategy\nPractical\nVictor Riitho\n\n\n\n\n\n\n\n\n\nDay 2: 16th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\n08:30 - 09:30\nFeedback session on the search strategies (Presentations)\nDiscussion\nAll\n\n\n09:30 - 10:30\nConduct searches on different databases\nPractical\nVictor Riitho\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 13:00\nHow to use software to remove duplicates (QC Rayyan)\nLecture plus practical\nMutono Nyamai\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:30\nData extraction process and tool development\nLecture plus practical\nVictor Riitho\n\n\n15:30 - 16:00\n☕ Tea break\n\n\n\n\n16:00 - 17:00\nQuality assessment\nLecture\nMuema Mulei\n\n\n\n\n\n\n\n\n\nDay 3: 17th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\n08:30 - 09:30\nProtocol development\nLecture\nGeorge Paul Omondi\n\n\n09:30 - 10:30\nProtocol development\nPractical\nGeorge Paul Omondi\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 12:30\nProtocol registration process\nLecture plus practical\nMuema Mulei\n\n\n12:30 - 13:00\nThe abstract screening process\nPractical\nVictor Riitho\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:30\nThe abstract screening process\nPractical\nVictor Riitho\n\n\n15:30 - 16:00\n☕ Tea break\n\n\n\n\n16:00 - 17:00\nData extraction process from included abstracts\nPractical\nVictor Riitho\n\n\n\n\n\n\n\n\n\nDay 4: 18th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\n08:30 - 09:30\nReporting guidelines (PRISMA)\nLecture\nMuema Mulei\n\n\n09:30 - 10:30\nDevelop a PRISMA flow chart\nPractical\nMuema Mulei\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 13:00\nData synthesis (geographical summary of study areas)\nLecture plus practical\nMutono Nyamai\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:30\nData synthesis (summarising study characteristics)\nPractical\nMutono Nyamai\n\n\n15:30 - 16:00\n☕ Tea break\n\n\n\n\n16:00 - 17:00\nSubgroup Analysis\nPractical\nMutono Nyamai\n\n\n\n\n\n\n\n\n\nDay 5: 19th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\n08:30 - 09:30\nPublication Bias Assessment\nPractical\nMutono Nyamai\n\n\n09:30 - 10:30\nAssessing heterogeneity\nPractical\nMutono Nyamai\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 13:00\nMeta-analysis (forest plots + regression models)\nPractical\nMutono Nyamai\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:00\nInterpreting and reporting results\nLecture\nMuema Mulei\n\n\n15:00 -\n15:30\nAuthorship and acknowledgments\nLecture\nGeorge Paul Omondi\n\n\n15:30 - 16:00\n☕ Tea break\n\n\n\n\n16:00 - 17:00\nDiscussion session / consultation\n\nAll"
+  },
+  {
+    "objectID": "index.html#this-workshop-template",
+    "href": "index.html#this-workshop-template",
+    "title": "Introduction to Epidemiological Modelling",
+    "section": "This workshop template",
+    "text": "This workshop template\nThis workshop template contains 4 pages:\n\nHome: index.qmd (this page)\nAbout: about.qmd\n\nTwo content pages\n\nPage without code: part_1_prep.qmd\nPage with R code: part_2_eda.qmd\n\nIt is straightforward to add more content pages: you need to create a new .qmd file (or copy/paste the existing ones), then link the new page inside _quarto.yml."
+  }
+]

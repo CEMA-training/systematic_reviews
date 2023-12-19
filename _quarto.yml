@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Schedule
+    right:
+      - text: CEMA website
+        href: https://cema-africa.uonbi.ac.ke
+  sidebar:
+    style: "docked"
+    search: true
+  
+  page-navigation: true
+
+format:
+  html:
+    theme: materia
+    css: styles.css
+    toc: true
+
+editor: visual
+
