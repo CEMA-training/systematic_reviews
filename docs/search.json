@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Introduction to Systematic Reviews and Meta-Analysis",
+    "title": "Introduction to Training on Health Technologies Assessment",
     "section": "",
-    "text": "Date: 15th - 19th January 2024\nVenue: CEMA Data Science Lab, University of Nairobi\n\n\nWelcome!\n\nThe goal of the workshop is to introduce the participants to the systematic review process and how to collect and analyse data.\n\n\nLearning Objectives\nAt the end of the tutorial, participants will be able to\n\nUnderstand the key components of systematic reviews\nHow to conduct a systematic review\nHow to synthesis and analyse the data\n\nThe course is targeting post graduate students who are in the process of conducting a systematic review.\nThe analysis will be conducted using R statistical software. Incase you are not conversant with the software, kindly use this link to access introductory notes."
+    "text": "Date: 22nd - 26th July 2024\nVenue: CEMA Data Science Lab, University of Nairobi\n\n\nWelcome!\nHealth is influenced by a wide range of social, economic, and environmental determinants. Historically, significant effort has been dedicated to understanding these determinants, measuring outcomes and impacts, and implementing effective policies to enhance public health. However, the growing population, increasing occurrence of multimorbidity, and limited health budgets present a substantial challenge in determining which health technologies—medicines, products, interventions, or services aimed at improving health—should be prioritized for investment to achieve the greatest benefit for individual and public health.\nThe Kenya Health Policy 2014-2030 envisions that clinically effective, safe, good quality, and affordable health products and technologies, are available and rationally used through establishment of a Health Technology Assessment (HTA) Regulatory agency. Health Technology Assessment (HTA) offers an established, formal process to address these challenges by enhancing efficiency (through better decision-making, optimizing health financing), increasing transparency, and ensuring accountability. HTA compiles essential medical, social, economic, and ethical information, examining the short- and long-term consequences of using new health technologies. This process allows for a balanced evaluation of the costs and benefits of health technologies, aiming to maximize value within the constraints of available budgets or identifying areas requiring additional funding.\nWhile the necessity for comprehensive assessments of medicines and other health commodities has been highlighted in the Kenya Health Sector Strategic & Investment Plan (2018-2023), institutionalization of HTA remains limited in Kenya. This poses significant challenges to effective and equitable healthcare resource allocation, clinical decision-making, and health system sustainability. Participants will learn to apply HTA methodologies to inform health policy decisions, balance costs and benefits, and ultimately improve patient care and public health outcomes\n\nLearning Objectives\nThe training will focus on:\n\nFundamentals of HTA: Understanding the history, epidemiological, economic and social methodologies, and the processes of HTA in healthcare decision-making.\nEvidence synthesis for HTA: Learning how to generate and appraise epidemiological and economic evidence to inform HTA decisions.\nEthical and Social Considerations in HTA: Recognizing the importance of incorporating social, ethical, and equity factors in HTA processes.\nHTA Implementation and Decision-Making: Exploring HTA decision-making frameworks, identifying implementation challenges, and developing strategies for sustainability and long-term success.\nBuilding Capacity and Planning for the Future: Developing local expertise in HTA, exploring emerging trends and technologies, and conducting practical HTA assessments.\n\nWho is this course for?\nThis training is designed for individuals who can support HTA technically in their roles as:\n\nHealthcare managers who are involved in health resources allocation and priorities setting, including implementing, and evaluating health policies/programs.\nPublic health/healthcare professionals from hospitals, ministry of health.\nResearchers, postgraduate students/academics in health economic evaluation, medicine/pharmacology, public health/health policy, health system and services or related fields.\n\nHow long is the training?\nTwo 5-day blocks.\nWhat is the format of the training?\nThe content will be delivered through lectures with Q & A sessions, group discussions, exercises and relevant case studies.\nParticipants are required to attend in-person.\nHow do participants need to prepare?\nParticipants are required to bring their own laptops for the hands-on exercises.\nSuggested readings will be shared ahead of the trainings."
   },
   {
     "objectID": "part_1_prep.html",
@@ -60,7 +60,7 @@
     "href": "about.html",
     "title": "Schedule",
     "section": "",
-    "text": "Day 1: 15th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\n08:30 - 09:30\nDefinition and purpose of systematic reviews\nLecture\nMuema Mulei\n\n\n09:30 - 10:30\nResearch question formulation for a systematic review\nLecture\nGeorge Paul Omondi\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 12:00\nResearch question formulation for a systematic review\nPractical\nGeorge Paul Omondi\n\n\n12:00 - 13:00\nStudy selection criteria (Inclusion and exclusion criteria) and grey literature\nLecture\nGeorge Paul Omondi\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:00\nInclusion and exclusion criteria\nPractical\nGeorge Paul Omondi\n\n\n15:00 - 16:00\nLiterature search strategies\nLecture\nVictor Riitho\n\n\n16:00 - 16:30\n☕ Tea break\n\n\n\n\n16:30 - 17:00\nDevelop a search strategy\nPractical\nVictor Riitho\n\n\n\n\n\n\n\n\n\nDay 2: 16th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\nBefore 8:30\nDay 1 evaluation\n\n\n\n\n08:30 - 09:30\nFeedback session on the search strategies (Presentations)\nDiscussion\nAll\n\n\n09:30 - 10:30\nConduct searches on different databases\nPractical\nVictor Riitho\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 13:00\nHow to use software to remove duplicates (QC Rayyan)\nPractical\nMutono Nyamai\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:30\nData extraction process and tool development\nLecture plus practical\nVictor Riitho\n\n\n15:30 - 16:00\n☕ Tea break\n\n\n\n\n16:00 - 17:00\nQuality assessment\nLecture\nMuema Mulei\n\n\n\n\n\n\n\n\n\nDay 3: 17th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\nBefore 8:30\nDay 2 evaluation\n\n\n\n\n08:30 - 09:30\nProtocol development\nLecture\nGeorge Paul Omondi\n\n\n09:30 - 10:30\nProtocol development\nPractical\nGeorge Paul Omondi\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 12:30\nProtocol registration process\nLecture plus practical\nMuema Mulei\n\n\n12:30 - 13:00\nThe abstract screening process\nPractical\nVictor Riitho\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:30\nThe abstract screening process\nPractical\nVictor Riitho\n\n\n15:30 - 16:00\n☕ Tea break\n\n\n\n\n16:00 - 17:00\nData extraction process from included abstracts\nPractical\nVictor Riitho\n\n\n\n\n\n\n\n\n\nDay 4: 18th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\n08:30 - 09:30\nReporting guidelines (PRISMA)\nLecture\nMuema Mulei\n\n\n09:30 - 10:30\nDevelop a PRISMA flow chart\nPractical\nMuema Mulei\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 13:00\nData synthesis (geographical summary of study areas)\nLecture plus practical\nMutono Nyamai\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:30\nData synthesis (summarising study characteristics)\nPractical\nMutono Nyamai\n\n\n15:30 - 16:00\n☕ Tea break\n\n\n\n\n16:00 - 17:00\nSubgroup Analysis\nPractical\nMutono Nyamai\n\n\n\n\n\n\n\n\n\nDay 5: 19th January 2024\n\n\n\n\n\n\n\n\n\nTime\nTopic\nType\nPresenter\n\n\n\n\n08:30 - 09:30\nPublication Bias Assessment\nPractical\nMutono Nyamai\n\n\n09:30 - 10:30\nAssessing heterogeneity\nPractical\nMutono Nyamai\n\n\n10:30 - 11:00\n☕ Tea break\n\n\n\n\n11:00 - 13:00\nMeta-analysis (forest plots + regression models)\nPractical\nMutono Nyamai\n\n\n13:00 - 14:00\n🍲 Lunch break\n\n\n\n\n14:00 - 15:00\nInterpreting and reporting results\nLecture\nMuema Mulei\n\n\n15:00 -\n15:30\nAuthorship and acknowledgments\nLecture\nGeorge Paul Omondi\n\n\n15:30 - 16:00\n☕ Tea break\n\n\n\n\n16:00 - 17:00\nDiscussion session / consultation\n\nAll"
+    "text": "Day 1: 22nd July 2024\n\n\n\n\nObjective: Understanding the building blocks of HTA & its potential in Kenya\nSession Chair:  Tabitha Okech"
   },
   {
     "objectID": "index.html#this-workshop-template",
@@ -68,5 +68,40 @@
     "title": "Introduction to Epidemiological Modelling",
     "section": "This workshop template",
     "text": "This workshop template\nThis workshop template contains 4 pages:\n\nHome: index.qmd (this page)\nAbout: about.qmd\n\nTwo content pages\n\nPage without code: part_1_prep.qmd\nPage with R code: part_2_eda.qmd\n\nIt is straightforward to add more content pages: you need to create a new .qmd file (or copy/paste the existing ones), then link the new page inside _quarto.yml."
+  },
+  {
+    "objectID": "about.html#introduction-to-health-technology-assessment",
+    "href": "about.html#introduction-to-health-technology-assessment",
+    "title": "Schedule",
+    "section": "",
+    "text": "Objective: Understanding the building blocks of HTA & its potential in Kenya\nSession Chair:  Tabitha Okech"
+  },
+  {
+    "objectID": "about.html#epidemiological-methods-in-hta",
+    "href": "about.html#epidemiological-methods-in-hta",
+    "title": "Schedule",
+    "section": "Epidemiological Methods in HTA",
+    "text": "Epidemiological Methods in HTA\nObjective: Understanding how epidemiology research can serve HTA\nSession Chair: Jeanette Dawa"
+  },
+  {
+    "objectID": "about.html#economic-evaluation-in-hta",
+    "href": "about.html#economic-evaluation-in-hta",
+    "title": "Schedule",
+    "section": "Economic Evaluation in HTA",
+    "text": "Economic Evaluation in HTA\nObjective: Understanding economic frameworks\nSession Chair: Tabitha Okech"
+  },
+  {
+    "objectID": "about.html#economic-evaluation-in-hta-1",
+    "href": "about.html#economic-evaluation-in-hta-1",
+    "title": "Schedule",
+    "section": "Economic Evaluation in HTA",
+    "text": "Economic Evaluation in HTA\nObjective: Principles of economic evaluation in healthcare\nSession Chair: Tabitha Okech"
+  },
+  {
+    "objectID": "about.html#social-and-equity-considerations-for-hta",
+    "href": "about.html#social-and-equity-considerations-for-hta",
+    "title": "Schedule",
+    "section": "Social and Equity considerations for HTA",
+    "text": "Social and Equity considerations for HTA\nObjective: Social ethics and equity in health technology assessment\nSession Chair: Jeanette Dawa"
   }
 ]

@@ -8,94 +8,118 @@ editor: visual
 ---
 
 ::: {.callout-note appearance="minimal"}
-## Day 1: 15th January 2024
+## Day 1: 22nd July 2024
+
+## **Introduction to Health Technology Assessment**
+
+**Objective:** Understanding the building blocks of HTA & its potential in Kenya
+
+**Session Chair:**  [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)
 :::
 
-| Time          | Topic                                                                                                                                                                                      | Type      | Presenter                                                                             |
-|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
-| 08:30 - 09:30 | [Definition and purpose of systematic reviews](https://docs.google.com/presentation/d/1-N3FvzShffZwHEUSO8rnA0nBr2kz0dLr/edit?usp=share_link&ouid=113648051799093918679&rtpof=true&sd=true) | Lecture   | [Muema Mulei](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mulei-muema)     |
-| 09:30 - 10:30 | [Research question formulation for a systematic review](https://drive.google.com/drive/folders/1CdOdnsk9ntF1hBlm8WLBPM2gvI6DBUb7?usp=share_link)                                           | Lecture   | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
-| 10:30 - 11:00 | ☕ Tea break                                                                                                                                                                               |           |                                                                                       |
-| 11:00 - 12:00 | Research question formulation for a systematic review                                                                                                                                      | Practical | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
-| 12:00 - 13:00 | [Study selection criteria (Inclusion and exclusion criteria) and grey literature](https://drive.google.com/file/d/1S3rKyQDk8odwAN1ImQ-vQUYx46zv5ExQ/view?usp=share_link)                   | Lecture   | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
-| 13:00 - 14:00 | 🍲 Lunch break                                                                                                                                                                             |           |                                                                                       |
-| 14:00 - 15:00 | Inclusion and exclusion criteria                                                                                                                                                           | Practical | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
-| 15:00 - 16:00 | [Literature search strategies](https://drive.google.com/file/d/12VPFZOzrHz8hVZtIFHcp2YT0NlaNyR2e/view?usp=share_link)                                                                      | Lecture   | [Victor Riitho](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-victor-riitho) |
-| 16:00 - 16:30 | ☕ Tea break                                                                                                                                                                               |           |                                                                                       |
-| 16:30 - 17:00 | Develop a search strategy                                                                                                                                                                  | Practical | [Victor Riitho](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-victor-riitho) |
+| Time          | Topic                                           | Type      | Presenter                                                                             |
+|---------------|-------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
+| 08:00 - 08:30 | Arrival and registration                        |           |                                                                                       |
+| 08:30 - 08:50 | Introductions and welcoming remarks             |           | [Daniel Mwai](https://economics.uonbi.ac.ke/staff/dr-daniel-ngugi-mwai)               |
+| 08:50 - 09:00 | Goals, objectives and structure of the training |           | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 09:00 - 10:30 | Introduction to HTA                             | Lecture   | [Saudamini Dabak](https://www.hitap.net/en/staff/170776)                              |
+| 10:30 - 11:00 | ☕ Tea break                                    |           |                                                                                       |
+| 11:00 - 12:00 | Case studies of HTA in health decision-making   |           | [Panchanok Muenkaew](https://www.hitap.net/en/staff/189371)                           |
+| 12:00 - 12:40 | Infrastructure for HTA: Where are we in Kenya?  | Lecture   | [Daniel Mwai](https://economics.uonbi.ac.ke/staff/dr-daniel-ngugi-mwai)               |
+| 12:40 - 14:00 | 🍲 Lunch break                                  |           |                                                                                       |
+| 14:00 - 15:00 | Topic nomination                                | Practical | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 15:00 - 16:00 | Group Feedback                                  | Plenary   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 16:00 - 16:30 | ☕ Tea break                                    |           |                                                                                       |
 
 ::: {.callout-note appearance="minimal"}
-## Day 2: 16th January 2024
+## Day 2: 23rd July 2024
+
+## **Epidemiological Methods in HTA**
+
+**Objective:** Understanding how epidemiology research can serve HTA
+
+**Session Chair:** [Jeanette Dawa](https://cema-africa.uonbi.ac.ke/people/secretariat/dr-jeanette-dawa)
 :::
 
-| Time          | Topic                                                                                                                                 | Type                   | Presenter                                                                             |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------------|
-| Before 8:30   | [Day 1 evaluation](https://forms.gle/DcfTaBpKQo6C4vqw8)                                                                               |                        |                                                                                       |
-| 08:30 - 09:30 | Feedback session on the search strategies (Presentations)                                                                             | Discussion             | All                                                                                   |
-| 09:30 - 10:30 | Conduct searches on different databases                                                                                               | Practical              | [Victor Riitho](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-victor-riitho) |
-| 10:30 - 11:00 | ☕ Tea break                                                                                                                          |                        |                                                                                       |
-| 11:00 - 13:00 | How to use software to remove duplicates (QC Rayyan)                                                                                  | Practical              | [Mutono Nyamai](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mutono-nyamai) |
-| 13:00 - 14:00 | 🍲 Lunch break                                                                                                                        |                        |                                                                                       |
-| 14:00 - 15:30 | [Data extraction process and tool development](https://drive.google.com/file/d/1yn7dpZRUZ38cFO6UXnHP2KvPUUNh5sBX/view?usp=share_link) | Lecture plus practical | [Victor Riitho](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-victor-riitho) |
-| 15:30 - 16:00 | ☕ Tea break                                                                                                                          |                        |                                                                                       |
-| 16:00 - 17:00 | [Quality assessment](https://drive.google.com/file/d/1PPektq1-hDFk23x8MDuqUf3SC9V93eG0/view?usp=share_link)                           | Lecture                | [Muema Mulei](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mulei-muema)     |
+| Time          | Topic                                                               | Type      | Presenter                                                                                        |
+|---------------|---------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------|
+| 08:30 - 09:00 | Epidemiology key concepts I (Introduction to epidemiology)          | Lecture   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)            |
+| 09:00 - 10:30 | Epidemiology key concepts II (Study design and measures of disease) | Lecture   | [Jeanette Dawa](https://cema-africa.uonbi.ac.ke/people/secretariat/dr-jeanette-dawa)             |
+| 10:30 - 11:00 | ☕ Tea break                                                        |           |                                                                                                  |
+| 11:00 - 11:45 | Epidemiology key concepts III (Causal concepts)                     | Lecture   | [Thumbi Mwangi](https://cema-africa.uonbi.ac.ke/people/epidemiology/prof-thumbi-mwangi)          |
+| 11:45 - 12:15 | The role of Epidemiology in HTA decisions                           | Lecture   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)            |
+| 12:15 - 12:45 | Literature search for existing evidence                             | Lecture   | [Jeanette Dawa](https://cema-africa.uonbi.ac.ke/people/secretariat/dr-jeanette-dawa)             |
+| 13:00 - 14:00 | 🍲 Lunch break                                                      |           |                                                                                                  |
+| 14:00 - 14:30 | Literature search for existing evidence                             | Lecture   | [Jeanette Dawa](https://cema-africa.uonbi.ac.ke/people/secretariat/dr-jeanette-dawa)             |
+| 14:30 - 15:30 | Critical appraisal of literature                                    | Lecture   | [Marybeth Maritim](https://cema-africa.uonbi.ac.ke/people/clinical-research/dr-marybeth-maritim) |
+| 15:30 - 15:45 | ☕ Tea break                                                        |           |                                                                                                  |
+| 15:45 - 17:00 | Critical evidence appraisal                                         | Practical | [Marybeth Maritim](https://cema-africa.uonbi.ac.ke/people/clinical-research/dr-marybeth-maritim) |
 
 ::: {.callout-note appearance="minimal"}
-## Day 3: 17th January 2024
+## Day 3: 24th July 2024
+
+## Economic Evaluation in HTA
+
+**Objective:** Understanding economic frameworks
+
+**Session Chair:** [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)
 :::
 
-| Time          | Topic                                                                                                                    | Type                   | Presenter                                                                             |
-|---------------|--------------------------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------------|
-| Before 8:30   | [Day 2 evaluation](https://forms.gle/m6LDfHZ3tRBtctyA7)                                                                  |                        |                                                                                       |
-| 08:30 - 09:30 | [Protocol development](https://drive.google.com/drive/folders/1XVwhMmaR629UUVUjX2E8IQpQqTFjKMVr?usp=share_link)          | Lecture                | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
-| 09:30 - 10:30 | Protocol development                                                                                                     | Practical              | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
-| 10:30 - 11:00 | ☕ Tea break                                                                                                             |                        |                                                                                       |
-| 11:00 - 12:30 | [Protocol registration process](https://drive.google.com/drive/folders/13Os3PZIvn1kdOMbeA0ofHQEd_8J7CJ2a?usp=share_link) | Lecture plus practical | [Muema Mulei](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mulei-muema)     |
-| 12:30 - 13:00 | The abstract screening process                                                                                           | Practical              | [Victor Riitho](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-victor-riitho) |
-| 13:00 - 14:00 | 🍲 Lunch break                                                                                                           |                        |                                                                                       |
-| 14:00 - 15:30 | The abstract screening process                                                                                           | Practical              | [Victor Riitho](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-victor-riitho) |
-| 15:30 - 16:00 | ☕ Tea break                                                                                                             |                        |                                                                                       |
-| 16:00 - 17:00 | Data extraction process from included abstracts                                                                          | Practical              | [Victor Riitho](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-victor-riitho) |
+| Time          | Topic                                                     | Type      | Presenter                                                                             |
+|---------------|-----------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
+| 08:30 - 09:30 | Evidence synthesis: Systematic reviews and meta-analysis  | Lecture   | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
+| 09:30 - 10:30 | Overview of economic evaluation frameworks                | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
+| 10:30 - 11:00 | ☕ Tea break                                              |           |                                                                                       |
+| 11:00 - 11:45 | Concepts and applications of cost analysis in Health Care | Lecture   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 11:45 - 12:45 | Costing exercise                                          | Practical | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 13:00 - 14:00 | 🍲 Lunch break                                            |           |                                                                                       |
+| 14:00 - 14:40 | Health Outcome Assessment                                 | Lecture   | [Panchanok Muenkaew](https://www.hitap.net/en/staff/189371)                           |
+| 14:40 - 15:10 | Measuring outcomes                                        | Practical | [Panchanok Muenkaew](https://www.hitap.net/en/staff/189371)                           |
+| 15:10 - 15:30 | ☕ Tea break                                              |           |                                                                                       |
+| 15:30 - 17:00 | Topic prioritization                                      | Practical | [Saudamini Dabak](https://www.hitap.net/en/staff/170776)                              |
 
 ::: {.callout-note appearance="minimal"}
-## Day 4: 18th January 2024
+## Day 4: 25th July 2024
+
+## Economic Evaluation in HTA
+
+**Objective:** Principles of economic evaluation in healthcare
+
+**Session Chair:** [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)
 :::
 
-| Time          | Topic                                                                                                                                                                         | Type                   | Presenter                                                                             |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------------|
-| 08:30 - 09:30 | Reporting guidelines (PRISMA)                                                                                                                                                 | Lecture                | [Muema Mulei](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mulei-muema)     |
-| 09:30 - 10:30 | Develop a PRISMA flow chart                                                                                                                                                   | Practical              | [Muema Mulei](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mulei-muema)     |
-| 10:30 - 11:00 | ☕ Tea break                                                                                                                                                                  |                        |                                                                                       |
-| 11:00 - 13:00 | [Data synthesis (geographical summary of study areas)](https://www.dropbox.com/scl/fi/l57g2ht568lbp0jz52rim/extracted_data_tutorial.csv?rlkey=pjmq0vpp30x2am269okokn84y&dl=0) | Lecture plus practical | [Mutono Nyamai](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mutono-nyamai) |
-| 13:00 - 14:00 | 🍲 Lunch break                                                                                                                                                                |                        |                                                                                       |
-| 14:00 - 15:30 | Data synthesis (summarising study characteristics)                                                                                                                            | Practical              | [Mutono Nyamai](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mutono-nyamai) |
-| 15:30 - 16:00 | ☕ Tea break                                                                                                                                                                  |                        |                                                                                       |
-| 16:00 - 17:00 | [Subgroup Analysis](https://www.dropbox.com/scl/fi/ppsvy0ahezzbm0zj1xeds/tutorial.Rmd?rlkey=ofvhjbdd4bk3bjqss09euj3zp&dl=0)                                                   | Practical              | [Mutono Nyamai](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mutono-nyamai) |
+| Time          | Topic                                                                          | Type      | Presenter                                                                             |
+|---------------|--------------------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
+| 08:30 - 09:05 | Economic modeling techniques I: Decision trees                                 | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
+| 09:05 - 09:55 | Economic modeling techniques I: Decision trees                                 | Practical | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
+| 09:55 - 10:20 | ☕ Tea break                                                                   |           |                                                                                       |
+| 10:20 - 11:00 | Economic modeling techniques II: Markov models                                 | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
+| 11:00 - 12:30 | Markov modelling                                                               | Practical | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
+| 12:30 - 14:15 | 🍲 Lunch break                                                                 |           |                                                                                       |
+| 14:15 - 14:45 | Uncertainty and interpretation                                                 | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
+| 14:45 - 15:30 | Budget Impact analysis (BIA)                                                   | Lecture   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 15:30 - 15:45 | ☕ Tea break                                                                   |           |                                                                                       |
+| 15:40 - 16:45 | Literature review and critical appraisal of health economic evaluation studies | Lecture   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 16:45 - 17:00 | Group feedback and Q&A session                                                 |           | All                                                                                   |
 
 ::: {.callout-note appearance="minimal"}
-## Day 5: 19th January 2024
+## Day 5: 26th July 2024
+
+## Social and Equity considerations for HTA
+
+**Objective:** Social ethics and equity in health technology assessment
+
+**Session Chair:** [Jeanette Dawa](https://cema-africa.uonbi.ac.ke/people/secretariat/dr-jeanette-dawa)
 :::
 
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| Time          | Topic                                            | Type      | Presenter                                                                             |
-+===============+==================================================+===========+=======================================================================================+
-| 08:30 - 09:30 | Publication Bias Assessment                      | Practical | [Mutono Nyamai](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mutono-nyamai) |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| 09:30 - 10:30 | Assessing heterogeneity                          | Practical | [Mutono Nyamai](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mutono-nyamai) |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| 10:30 - 11:00 | ☕ Tea break                                     |           |                                                                                       |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| 11:00 - 13:00 | Meta-analysis (forest plots + regression models) | Practical | [Mutono Nyamai](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mutono-nyamai) |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| 13:00 - 14:00 | 🍲 Lunch break                                   |           |                                                                                       |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| 14:00 - 15:00 | Interpreting and reporting results               | Lecture   | [Muema Mulei](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-mulei-muema)     |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| 15:00 -       | Authorship and acknowledgments                   | Lecture   | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
-|               |                                                  |           |                                                                                       |
-| 15:30         |                                                  |           |                                                                                       |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| 15:30 - 16:00 | ☕ Tea break                                     |           |                                                                                       |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
-| 16:00 - 17:00 | Discussion session / consultation                |           | All                                                                                   |
-+---------------+--------------------------------------------------+-----------+---------------------------------------------------------------------------------------+
+| Time          | Topic                                                                                               | Type    | Presenter                                                                               |
+|---------------|-----------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------|
+| 08:30 - 09:30 | Introduction to social, ethics and equity in HTA                                                    | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
+| 09:30 - 10:30 | Social determinants of Health & Equity in Health                                                    | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
+| 10:30 - 11:00 | ☕ Tea break                                                                                        |         |                                                                                         |
+| 11:00 - 11:45 | Applying social, ethics and equity principles in HTA                                                | Lecture | [Saudamini Dabak](https://www.hitap.net/en/staff/170776)                                |
+| 11:45 - 12:45 | National Health Policies and Strategies policies and their importance in healthcare decision-making | Lecture | [David Khaoya](http://www.healthpolicyplus.com/DKhaoya.cfm)                             |
+| 13:00 - 14:00 | 🍲 Lunch break                                                                                      |         |                                                                                         |
+| 14:00 - 15:00 | Course evaluation and feedback                                                                      |         | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)   |
+| 15:00 -16:00  | Next steps and closing remarks                                                                      |         | [Thumbi Mwangi](https://cema-africa.uonbi.ac.ke/people/epidemiology/prof-thumbi-mwangi) |
+| 15:30 - 16:00 | ☕ Tea break                                                                                        |         |                                                                                         |

@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Systematic Reviews and Meta-Analysis"
+title: "Introduction to Training on Health Technologies Assessment"
 ---
 
-Date: **15th - 19th January 2024**
+Date: **22nd - 26th July 2024**
 
 Venue: **CEMA Data Science Lab, University of Nairobi**
 
@@ -10,18 +10,50 @@ Venue: **CEMA Data Science Lab, University of Nairobi**
 
 # Welcome!
 
--   The goal of the workshop is to introduce the participants to the systematic review process and how to collect and analyse data.
+Health is influenced by a wide range of social, economic, and environmental determinants. Historically, significant effort has been dedicated to understanding these determinants, measuring outcomes and impacts, and implementing effective policies to enhance public health. However, the growing population, increasing occurrence of multimorbidity, and limited health budgets present a substantial challenge in determining which health technologies—medicines, products, interventions, or services aimed at improving health—should be prioritized for investment to achieve the greatest benefit for individual and public health.
+
+The Kenya Health Policy 2014-2030 envisions that clinically effective, safe, good quality, and affordable health products and technologies, are available and rationally used through establishment of a Health Technology Assessment (HTA) Regulatory agency. Health Technology Assessment (HTA) offers an established, formal process to address these challenges by enhancing efficiency (through better decision-making, optimizing health financing), increasing transparency, and ensuring accountability. HTA compiles essential medical, social, economic, and ethical information, examining the short- and long-term consequences of using new health technologies. This process allows for a balanced evaluation of the costs and benefits of health technologies, aiming to maximize value within the constraints of available budgets or identifying areas requiring additional funding.
+
+While the necessity for comprehensive assessments of medicines and other health commodities has been highlighted in the Kenya Health Sector Strategic & Investment Plan (2018-2023), institutionalization of HTA remains limited in Kenya. This poses significant challenges to effective and equitable healthcare resource allocation, clinical decision-making, and health system sustainability. Participants will learn to apply HTA methodologies to inform health policy decisions, balance costs and benefits, and ultimately improve patient care and public health outcomes
 
 #### Learning Objectives
 
-At the end of the tutorial, participants will be able to
+The training will focus on:
 
--   Understand the key components of systematic reviews
--   How to conduct a systematic review
--   How to synthesis and analyse the data
+-   **Fundamentals of HTA:** Understanding the history, epidemiological, economic and social methodologies, and the processes of HTA in healthcare decision-making.
 
-The course is targeting post graduate students who are in the process of conducting a systematic review.
+-   **Evidence synthesis for HTA:** Learning how to generate and appraise epidemiological and economic evidence to inform HTA decisions.
 
-The analysis will be conducted using **R** statistical software. Incase you are not conversant with the software, kindly use this [link](https://cema-uonbi.github.io/cema_courses.github.io/index.html) to access introductory notes.
+-   **Ethical and Social Considerations in HTA:** Recognizing the importance of incorporating social, ethical, and equity factors in HTA processes.
 
-![](cema_logo_no_background.png){fig-align="center" width="30%"}
+-   **HTA Implementation and Decision-Making:** Exploring HTA decision-making frameworks, identifying implementation challenges, and developing strategies for sustainability and long-term success.
+
+-   **Building Capacity and Planning for the Future:** Developing local expertise in HTA, exploring emerging trends and technologies, and conducting practical HTA assessments.
+
+**Who is this course for?**
+
+This training is designed for individuals who can support HTA technically in their roles as:
+
+-   Healthcare managers who are involved in health resources allocation and priorities setting, including implementing, and evaluating health policies/programs.
+
+-   Public health/healthcare professionals from hospitals, ministry of health.
+
+-   Researchers, postgraduate students/academics in health economic evaluation, medicine/pharmacology, public health/health policy, health system and services or related fields.
+
+**How long is the training?**
+
+Two 5-day blocks.
+
+**What is the format of the training?**
+
+The content will be delivered through lectures with Q & A sessions, group discussions, exercises and relevant case studies.
+
+Participants are required to attend in-person.
+
+**How do participants need to prepare?**
+
+Participants are required to bring their own laptops for the hands-on exercises.
+
+Suggested readings will be shared ahead of the trainings.
+
+![](logos.png)
